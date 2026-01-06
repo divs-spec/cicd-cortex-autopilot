@@ -1,5 +1,8 @@
 # CortexAEIA - Autonomous Engineering Intelligence Agent
+
 An agentic AI that understands your codebase and fixes your pipelines — automatically.
+
+******Cortex****** = the intelligent layer that understands the codebase, pipeline behavior, and failure patterns, then reasons and acts like a senior engineer.
 
 ---
 
